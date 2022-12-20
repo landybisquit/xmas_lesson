@@ -1,0 +1,28 @@
+/* CSS Document */
+html, body {
+	background-color: black;
+}
+h1, h2, h3, h4, p, label {
+	color: white;
+	background-color: black;
+}
+h1 {
+	color: white;
+	text-align: center;
+	background-color: black;
+}
+.form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+}
+form {
+	width: 70vw;
+	background-color: black;
+	margin-top: 3%;
+}
+.summ {
+	margin: 5%;
+}
