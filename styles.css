@@ -1,0 +1,33 @@
+/* Copyright Landy Bisquit 2022 */
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	background-color: black;
+}
+button {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	height: 10vh;
+	background-color: black;
+	border: none;
+	transition: .5s;
+}
+button:hover {
+	background-color: gray;
+}
+.one {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+
+}
+.yamusic {
+	width: 70%;
+	height: 90vh
+}
